@@ -38,6 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "proxy": "https://us-central1-socialape-5fb9d.cloudfunctions.net/api"
+  }
 }
