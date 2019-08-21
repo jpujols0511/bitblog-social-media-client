@@ -7,6 +7,7 @@
     "@material-ui/icons": "^4.2.1",
     "axios": "^0.19.0",
     "dayjs": "^1.8.15",
+    "http-proxy-middleware": "^0.19.1",
     "jwt-decode": "^2.2.0",
     "live-server": "^1.2.1",
     "react": "^16.9.0",
